@@ -1,0 +1,2 @@
+# git
+Kho trung tam
